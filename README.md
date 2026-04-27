@@ -1,1 +1,1 @@
-# byninja-trading-bot
+ByNinja Trading Bot
