@@ -21,10 +21,10 @@ Contains configuration parameters for Telegram bot connection and TCP server set
 """
 
 ## Telegram bot token for authentication
-TELEGRAM_BOT_TOKEN = "...your_telegram_bot_token..."
+TELEGRAM_BOT_TOKEN = "your_telegram_bot_token"
 
 ## Telegram chat ID for message routing
-TELEGRAM_CHAT_ID = "...your_private_telegram_chat_id..."
+TELEGRAM_CHAT_ID = "your_private_telegram_chat_id"
 
 ## TCP server port for incoming connections
 TCP_SERVER_PORT = 55110

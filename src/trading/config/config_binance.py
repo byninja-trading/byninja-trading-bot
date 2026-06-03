@@ -22,8 +22,8 @@ Supports both mainnet and testnet configurations.
 """
 
 ## Mainnet configuration
-BINANCE_API_KEY = "...your_binance_api_key..."
-BINANCE_API_SECRET = "...your_binance_api_secret..."
+BINANCE_API_KEY = "your_binance_api_key"
+BINANCE_API_SECRET = "your_binance_api_secret"
 
 ## TCP server port for trading bot communication
 TCP_SERVER_PORT = 55110
