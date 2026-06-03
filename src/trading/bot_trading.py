@@ -39,7 +39,7 @@ from trading.risk import RiskManager
 from trading.models import OrderSide, OrderType, OrderStatus, Position, Order, SymbolControl
 
 ## Bot version
-BOT_VERSION = "0.1.0"
+BOT_VERSION = "0.1.1"
 
 ## Logging configuration
 logger = Logger(
