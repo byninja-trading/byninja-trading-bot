@@ -5,7 +5,7 @@ Run automated trading strategies locally, execute operations on the **Binance** 
 
 The **ByNinja** core engine utilizes a multi-layer Exponential Moving Average (EMA) trend continuation algorithm designed for high-momentum assets. The system performs real-time scanning of configured trading pairs, filtering entry points based on structural breakouts and volume confirmations.
 
-[**Official Website**](https://byninja-trading.com/en) | [**Documentation**](https://byninja-trading.com/en/documentation) | [**Knowledge Base**](https://byninja-trading.com/en/knowledge-base)
+[**Official Website**](https://byninja-trading.com/en) | [**Documentation**](https://byninja-trading.com/en/documentation) | [**Knowledge Base**](https://byninja-trading.com/en/knowledge-base) | [**X (Twitter)**](https://x.com/ByNinjaTrading)
 
 <br>
 
@@ -69,6 +69,9 @@ The **ByNinja** core engine utilizes a multi-layer Exponential Moving Average (E
 <p align="center">
   <a href="https://www.binance.com/register?ref=487123052" target="_blank">
     <img src="https://img.shields.io/badge/Binance-F3BA2F?style=for-the-badge&logo=binance&logoColor=black" alt="Binance">
+  </a>
+  <a href="https://x.com/ByNinjaTrading" target="_blank">
+    <img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)">
   </a>
   <img src="https://img.shields.io/badge/Python-3.10+-black?style=for-the-badge&logo=python&logoColor=F3BA2F" alt="Python">
   <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
