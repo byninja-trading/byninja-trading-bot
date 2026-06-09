@@ -5,7 +5,7 @@ Run automated trading strategies locally, execute operations on the **Binance** 
 
 The **ByNinja** core engine utilizes a multi-layer Exponential Moving Average (EMA) trend continuation algorithm designed for high-momentum assets. The system performs real-time scanning of configured trading pairs, filtering entry points based on structural breakouts and volume confirmations.
 
-[**Official Website**](https://byninja-trading.com/en) | [**Documentation**](https://byninja-trading.com/en/documentation) | [**Knowledge Base**](https://byninja-trading.com/en/knowledge-base) | [**X (Twitter)**](https://x.com/ByNinjaTrading)
+[**Official Website**](https://byninja-trading.com) | [**Documentation**](https://byninja-trading.com/documentation) | [**Knowledge Base**](https://byninja-trading.com/knowledge-base) | [**X (Twitter)**](https://x.com/ByNinjaTrading)
 
 <br>
 
@@ -14,31 +14,31 @@ The **ByNinja** core engine utilizes a multi-layer Exponential Moving Average (E
 > [!TIP]
 > To ensure maximum security and low-latency execution, it is recommended to deploy the bot on a dedicated local machine or a private VPS instance.
 
-### [Quick Start](https://byninja-trading.com/en/documentation/quick-start)
+### [Quick Start](https://byninja-trading.com/documentation/quick-start)
 * **Environment Setup** – Preparing the host environment (Python 3.10+).
 * **Python Virtual Environment** – Isolating dependencies using `venv`.
 * **Install Dependencies** – Installing required modules via `pip`.
 
-### [Binance Setup](https://byninja-trading.com/en/documentation/binance-setup)
+### [Binance Setup](https://byninja-trading.com/documentation/binance-setup)
 * **Create Binance Account** – Step-by-step account onboarding.
 * **Generate API Keys** – Creating secure connection credentials.
 * **API Permissions Guide** – Configuring "Enable Spot Trading" without withdrawal permissions.
 * **Security Recommendations** – IP whitelisting and key rotation best practices.
 
-### [Telegram Setup](https://byninja-trading.com/en/documentation/telegram-setup)
+### [Telegram Setup](https://byninja-trading.com/documentation/telegram-setup)
 * **Create Telegram Bot** – Registering a new bot instance via `@BotFather`.
 * **Get Bot Token** – Acquiring secure credentials for remote API control.
 * **Get Chat ID** – Restricting bot interaction to your specific Telegram account.
 
-### [Bot Configuration](https://byninja-trading.com/en/documentation/bot-configuration)
+### [Bot Configuration](https://byninja-trading.com/documentation/bot-configuration)
 * **Configure Trading Symbols** – Setting up target trading pairs and tickers.
 * **Configure Risk Settings** – Defining custom Stop Loss, Take Profit, and position sizing parameters in `config.py`.
 
-### [First Launch](https://byninja-trading.com/en/documentation/first-launch)
+### [First Launch](https://byninja-trading.com/documentation/first-launch)
 * **Start Scripts** – Initializing the execution engine and watchdog modules.
 * **Expected Startup Logs** – Verifying API connectivity and synchronization states upon startup.
 
-### [Telegram Commands](https://byninja-trading.com/en/documentation/telegram-commands)
+### [Telegram Commands](https://byninja-trading.com/documentation/telegram-commands)
 * **Trading Commands** – Executing manual operations via chat.
 * **Position Management** – Viewing and adjusting active trades.
 * **Emergency Commands** – Instant panic-sell and global execution halt switches.
@@ -57,10 +57,10 @@ The **ByNinja** core engine utilizes a multi-layer Exponential Moving Average (E
 <br>
 
 ## Legal & Compliance
-- [Privacy Policy](https://byninja-trading.com/en/privacy-policy)
-- [Risk Disclosure](https://byninja-trading.com/en/risk-disclosure)
-- [Disclaimer](https://byninja-trading.com/en/disclaimer)
-- [Terms of Service](https://byninja-trading.com/en/terms-of-service)
+- [Privacy Policy](https://byninja-trading.com/privacy-policy)
+- [Risk Disclosure](https://byninja-trading.com/risk-disclosure)
+- [Disclaimer](https://byninja-trading.com/disclaimer)
+- [Terms of Service](https://byninja-trading.com/terms-of-service)
 
 **Disclosure:** Links provided within the documentation may contain affiliate parameters. Project development is partially supported via optional exchange referral allocations.
 
