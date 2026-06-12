@@ -75,6 +75,9 @@ The **ByNinja** core engine utilizes a multi-layer Exponential Moving Average (E
   </a>
   <img src="https://img.shields.io/badge/Python-3.10+-black?style=for-the-badge&logo=python&logoColor=F3BA2F" alt="Python">
   <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+  <a href="https://partner.bybit.com/b/161454" target="_blank">
+    <img src="https://img.shields.io/badge/Bybit-000000?style=for-the-badge&logo=bybit&logoColor=F3BA2F" alt="Bybit">
+  </a>
 </p>
 
 <p align="center">
